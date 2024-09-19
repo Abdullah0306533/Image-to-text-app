@@ -14,4 +14,18 @@
     <!-- Additional Colors -->
     <color name="buttonBackground">#FF4081</color>
     <color name="buttonText">#FFFFFF</color>
+
+        <color name="background_color">#F5F5F5</color> <!-- Light background for the main layout -->
+        <color name="primary_text">#333333</color> <!-- Dark color for the TextView text -->
+        <color name="button_background">#FF6200EE</color> <!-- Purple button background -->
+        <color name="button_background_secondary">#FF03DAC5</color> <!-- Teal button background -->
+        <color name="button_text">#FFFFFF</color> <!-- White button text -->
+        <color name="button_stroke_color">#6600EE</color> <!-- Stroke color for buttons -->
+        <color name="progress_color">#FF6200EE</color> <!-- Progress bar tint color -->
+        <color name="image_border_color">#DDDDDD</color> <!-- Light gray border for ImageView -->
+
+
+
+
+
 </resources>
