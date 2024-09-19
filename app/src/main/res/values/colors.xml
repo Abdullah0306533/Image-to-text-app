@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- Primary Colors -->
+    <color name="primary">#6200EE</color>
+    <color name="primaryDark">#3700B3</color>
+    <color name="accent">#FFBB86FC</color>
+
+    <!-- Neutral Colors -->
+    <color name="background">#F5F5F5</color>
+    <color name="text">#333333</color>
+
+    <!-- Additional Colors -->
+    <color name="buttonBackground">#FF4081</color>
+    <color name="buttonText">#FFFFFF</color>
 </resources>

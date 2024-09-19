@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Image to Text app</string>
+    <string name="image_preview">Image Preview</string>
+
 </resources>
