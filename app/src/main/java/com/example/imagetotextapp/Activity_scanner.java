@@ -96,6 +96,7 @@ public class Activity_scanner extends AppCompatActivity {
         if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
             File photoFile = null;
             try {
+
                 photoFile = createImageFile();
             } catch (IOException ex) {
                 resultCapture.setText("Error creating image file.");
